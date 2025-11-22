@@ -1,0 +1,1 @@
+This repository contains a comprehensive analysis of historical sales data from a coffee shop to support strategic decision-making for the new CEO. The goal of this project is to uncover key business insights, identify trends, and provide data-backed recommendations to improve sales performance, optimize inventory, and enhance customer satisfaction 
